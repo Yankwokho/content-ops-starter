@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 700
+          fontWeight: 400
     subtitle: ''
     text: >+
       Not only we fix existing IT problems and develop new IT solutions, we
