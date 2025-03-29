@@ -33,7 +33,7 @@ sections:
         flexDirection: row
         padding:
           - pt-5
-          - pl-5
+          - pl-0
           - pb-5
           - pr-5
   - type: FeaturedItemsSection
