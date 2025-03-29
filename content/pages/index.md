@@ -12,16 +12,7 @@ sections:
       Not only we fix existing IT problems and develop new IT solutions, we
       tailor-made them to fit with your unique business.
 
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/pexels-pixabay-356056.jpg
       altText: Unblock your team boost your time to production preview
