@@ -41,7 +41,7 @@ sections:
           - pt-0
           - pl-0
           - pb-0
-          - pr-16
+          - pr-0
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
