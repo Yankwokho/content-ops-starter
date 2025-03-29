@@ -55,10 +55,21 @@ sections:
       - type: FeaturedItem
         title: Entrepreneur
         subtitle: 1-2 Employee(s)
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Initial Business Assessment and IT Solutions Proposal
+
+          *   Domain Registration
+
+          *   Business Email Registration
+
+          *   Business Web site with a landing page
+
+
+
+
+
+
+
         actions: []
         elementId: null
         colors: bg-dark-fg-light
