@@ -25,6 +25,7 @@ sections:
         self:
           padding:
             - pt-10
+            - pb-10
     badge:
       label: ''
       color: text-primary
