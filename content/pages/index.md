@@ -7,6 +7,9 @@ sections:
       text: IT Solutions for all Business
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: >+
       Not only we fix existing IT problems and develop new IT solutions, we
