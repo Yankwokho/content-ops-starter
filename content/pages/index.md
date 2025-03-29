@@ -44,7 +44,7 @@ sections:
           - pr-0
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Managed Services
       color: text-dark
       styles:
         self:
