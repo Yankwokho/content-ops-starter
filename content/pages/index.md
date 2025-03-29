@@ -33,9 +33,9 @@ sections:
         flexDirection: row
         padding:
           - pt-5
-          - pl-0
+          - pl-5
           - pb-5
-          - pr-0
+          - pr-5
   - type: FeaturedItemsSection
     title:
       text: Managed Services
