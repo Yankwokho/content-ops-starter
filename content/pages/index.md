@@ -7,7 +7,7 @@ sections:
       text: IT Solutions for all Business
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       Not only we fix existing IT problems and develop new IT solutions, we
       tailor-made them to fit with your unique business.
