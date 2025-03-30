@@ -39,7 +39,7 @@ sections:
         padding:
           - pt-5
           - pl-0
-          - pb-10
+          - pb-5
           - pr-0
   - type: FeaturedItemsSection
     title:
