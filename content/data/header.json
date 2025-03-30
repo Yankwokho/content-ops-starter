@@ -20,7 +20,7 @@
             "style": "secondary",
             "type": "Link",
             "showIcon": false,
-            "elementId": "header="
+            "elementId": "header-link"
         },
         {
             "label": "\"Y\"OUR IT TEAM",
