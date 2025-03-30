@@ -19,7 +19,8 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "showIcon": false
+            "showIcon": false,
+            "elementId": "header="
         },
         {
             "label": "\"Y\"OUR IT TEAM",
