@@ -7,53 +7,43 @@ sections:
       text: IT Solutions for all Business
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+      styles:
+        self:
+          fontWeight: 400
+    subtitle: ''
     text: >+
       Not only we fix existing IT problems and develop new IT solutions, we
       tailor-made them to fit with your unique business.
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
-      url: /images/pexels-pixabay-356056.jpg
-      altText: Unblock your team boost your time to production preview
+      url: /images/HomePage.jpg
+      altText: 'Business oriented IT solutions '
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pt-10
+            - pb-10
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-0
-          - pl-16
-          - pb-0
-          - pr-16
+          - pt-5
+          - pl-0
+          - pb-5
+          - pr-0
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Managed Services
       color: text-dark
       styles:
         self:
@@ -62,12 +52,23 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Entrepreneur
+        subtitle: 1-2 Employee(s)
+        text: |+
+          *   Initial Business Assessment and IT Solutions Proposal
+
+          *   Domain Registration
+
+          *   Business Email Registration
+
+          *   Business Web site with a landing page
+
+
+
+
+
+
+
         actions: []
         elementId: null
         colors: bg-dark-fg-light
@@ -157,7 +158,7 @@ sections:
       type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -168,56 +169,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
