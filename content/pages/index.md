@@ -18,7 +18,7 @@ sections:
     actions: []
     media:
       url: /images/HomePage.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: 'Business oriented IT solutions '
       elementId: ''
       type: ImageBlock
       styles:
