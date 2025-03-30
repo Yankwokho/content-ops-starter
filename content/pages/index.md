@@ -40,7 +40,7 @@ sections:
           - pt-5
           - pl-7
           - pb-5
-          - pr-5
+          - pr-7
   - type: FeaturedItemsSection
     title:
       text: Managed Services
