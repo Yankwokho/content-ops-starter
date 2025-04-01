@@ -30,6 +30,7 @@ sections:
         margin:
           - mt-10
           - mb-10
+          - ml-10
   - type: FeaturedItemsSection
     title:
       text: Managed Services
