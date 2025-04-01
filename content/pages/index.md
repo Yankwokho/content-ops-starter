@@ -2,45 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: IT Solutions for all Business
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          fontWeight: 400
-    subtitle: ''
-    text: >+
-      Not only we fix existing IT problems and develop new IT solutions, we
-      tailor-made them to fit with your unique business.
-
-    actions: []
-    media:
-      altText: 'Business oriented IT solutions '
-      elementId: ''
-      type: ImageBlock
-      styles:
-        self:
-          padding:
-            - pt-10
-            - pb-10
-      url: /images/IT_Solutions.webp
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-5
-          - pl-7
-          - pb-5
-          - pr-7
   - type: FeaturedItemsSection
     title:
       text: Managed Services
