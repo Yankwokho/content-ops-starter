@@ -12,7 +12,16 @@ sections:
       Not only we fix existing IT problems and develop new IT solutions, we
       tailor-made them to fit with your unique business.
 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /Y-ourTeam
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     colors: bg-dark-fg-light
     styles:
       self:
