@@ -15,7 +15,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: /Y-ourTeam
         icon: arrowRight
         iconPosition: right
         style: secondary
