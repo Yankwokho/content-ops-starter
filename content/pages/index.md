@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: We Fix All IT Problems with Business-Oriented Solutions
-      color: text-dark
+      color: text-primary
     subtitle: ''
     text: >+
       Not only we fix existing IT problems and develop new IT solutions, we
