@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: We Fix All IT Problems with Business-Oriented Solutions
       color: text-dark
     subtitle: Increase your reach
     text: >
