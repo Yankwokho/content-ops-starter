@@ -31,6 +31,7 @@ sections:
           - mt-10
           - mb-10
           - ml-10
+          - mr-10
   - type: FeaturedItemsSection
     title:
       text: Managed Services
