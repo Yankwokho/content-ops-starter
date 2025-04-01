@@ -8,9 +8,10 @@ sections:
       text: We Fix All IT Problems with Business-Oriented Solutions
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Not only we fix existing IT problems and develop new IT solutions, we
+      tailor-made them to fit with your unique business.
+
     actions:
       - type: Button
         label: Get started
