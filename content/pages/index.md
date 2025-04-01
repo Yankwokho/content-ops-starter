@@ -73,14 +73,6 @@ sections:
           - pl-7
           - pb-5
           - pr-7
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/IT_Solutions.webp
   - type: FeaturedItemsSection
     title:
       text: Managed Services
