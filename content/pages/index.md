@@ -34,6 +34,14 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/IT_Solutions.webp
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: GenericSection
     title:
       text: IT Solutions for all Business
