@@ -21,7 +21,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/IT_Solutions.webp
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
