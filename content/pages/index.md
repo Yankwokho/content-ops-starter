@@ -29,6 +29,7 @@ sections:
         alignItems: center
         margin:
           - mt-10
+          - mb-10
   - type: FeaturedItemsSection
     title:
       text: Managed Services
