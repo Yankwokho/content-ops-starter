@@ -17,7 +17,6 @@ sections:
 
     actions: []
     media:
-      url: /images/HomePage.jpg
       altText: 'Business oriented IT solutions '
       elementId: ''
       type: ImageBlock
