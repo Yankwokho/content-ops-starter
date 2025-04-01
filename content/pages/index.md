@@ -33,10 +33,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-10
-          - pl-10
-          - pb-10
-          - pr-10
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
   - type: FeaturedItemsSection
     title:
       text: Managed Services
