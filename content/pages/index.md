@@ -12,9 +12,6 @@ sections:
       A service that helps businesses to manage their social media accounts and
       posts.
     actions: []
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
     badge:
       type: Badge
       label: This is a badge
