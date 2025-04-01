@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Social Media Management
       color: text-dark
-    subtitle: We Fix All IT Problems with Business-Oriented Solutions
+    subtitle: ''
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
