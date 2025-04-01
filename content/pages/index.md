@@ -4,46 +4,6 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      type: TitleBlock
-      text: We Fix All IT Problems with Business-Oriented Solutions
-      color: text-light
-    subtitle: ''
-    text: >+
-      Not only we fix existing IT problems and develop new IT solutions, we
-      tailor-made them to fit with your unique business.
-
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /Y-ourTeam
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        alignItems: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/IT_Solutions.webp
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-  - type: GenericSection
-    title:
       text: IT Solutions for all Business
       color: text-dark
       type: TitleBlock
