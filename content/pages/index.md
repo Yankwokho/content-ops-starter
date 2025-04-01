@@ -48,6 +48,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/IT_Solutions.webp
   - type: FeaturedItemsSection
     title:
       text: Managed Services
