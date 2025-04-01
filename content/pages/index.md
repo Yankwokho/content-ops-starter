@@ -27,6 +27,8 @@ sections:
     styles:
       self:
         alignItems: center
+        margin:
+          - mt-10
   - type: FeaturedItemsSection
     title:
       text: Managed Services
