@@ -4,43 +4,39 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: IT Solutions for all Business
-      color: text-dark
       type: TitleBlock
-      styles:
-        self:
-          fontWeight: 400
+      text: We Fix All IT Problems with Business-Oriented Solutions
+      color: text-dark
     subtitle: ''
     text: >+
       Not only we fix existing IT problems and develop new IT solutions, we
       tailor-made them to fit with your unique business.
 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        url: /Y-ourTeam
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
     media:
-      url: /images/HomePage.jpg
-      altText: 'Business oriented IT solutions '
-      elementId: ''
       type: ImageBlock
-      styles:
-        self:
-          padding:
-            - pt-10
-            - pb-10
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
+      url: /images/IT_Solutions.webp
+      altText: Fun feature preview
     colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
         padding:
-          - pt-5
-          - pl-7
-          - pb-5
-          - pr-7
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
   - type: FeaturedItemsSection
     title:
       text: Managed Services
@@ -180,6 +176,98 @@ sections:
           - pr-7
     type: DividerSection
   - title:
+      text: List of features here
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Featured items section subtitle
+    items:
+      - title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Feature Item Two
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first awesome Netlify Create site.
+        image:
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Feature Item Three
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
+  - title:
       text: Grow your business 10x faster
       color: text-dark
       styles:
@@ -226,120 +314,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
@@ -543,98 +517,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: Generic Section With A Form
       color: text-dark
