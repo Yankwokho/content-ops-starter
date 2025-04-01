@@ -13,10 +13,6 @@ sections:
       tailor-made them to fit with your unique business.
 
     actions: []
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-dark-fg-light
     styles:
       self:
