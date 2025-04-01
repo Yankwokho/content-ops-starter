@@ -57,6 +57,7 @@ sections:
           padding:
             - pt-10
             - pb-10
+      url: /images/IT_Solutions.webp
     badge:
       label: ''
       color: text-primary
