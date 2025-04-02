@@ -39,7 +39,7 @@ sections:
           - pr-20
   - type: FeaturedItemsSection
     title:
-      text: Managed Services
+      text: ArkyTech Managed Services
       color: text-dark
       styles:
         self:
