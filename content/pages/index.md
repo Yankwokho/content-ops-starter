@@ -67,6 +67,7 @@ sections:
           - pl-0
           - pb-0
           - pr-0
+        justifyContent: center
       text:
         textAlign: center
   - type: FeaturedItemsSection
