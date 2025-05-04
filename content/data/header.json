@@ -20,7 +20,7 @@
             "style": "secondary",
             "type": "Link",
             "showIcon": false,
-            "elementId": "header-link"
+            "elementId": "#header-link"
         },
         {
             "type": "Link",
