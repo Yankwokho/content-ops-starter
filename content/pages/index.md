@@ -27,14 +27,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/IT_Solutions.webp
   - type: GenericSection
     title:
       type: TitleBlock
