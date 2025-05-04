@@ -53,6 +53,10 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/IT_Solutions.webp
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: GenericSection
     title:
       type: TitleBlock
