@@ -11,7 +11,7 @@ sections:
         url: /images/IT_Solutions.webp
     elementId: ''
     motion: static
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         margin:
