@@ -46,7 +46,6 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/IT_Solutions.webp
       altText: Fun feature preview
     colors: bg-neutral-fg-dark
     styles:
