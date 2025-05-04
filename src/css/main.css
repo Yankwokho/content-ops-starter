@@ -22,6 +22,10 @@
         line-height: 1.2;
     }
 }
+h1 {
+  color: red;
+}
+
 
 @layer components {
     .sb-markdown {
