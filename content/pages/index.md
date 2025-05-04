@@ -30,12 +30,19 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: We Fix All IT Problems with Business-Oriented Solutions
+      text: ''
       color: text-dark
     subtitle: ''
     text: >+
-      Not only we fix existing IT problems and develop new IT solutions, we
-      tailor-made them to fit with your unique business.
+      <div style="text-align: center"> <h2>We Fix All IT Problems with
+      Business-Oriented Solutions</h2></div>
+
+
+      <div align="center">Not only we fix existing IT problems and develop new
+      IT solutions, we tailor-made them to fit with your unique business
+
+
+      </div>
 
     actions:
       - type: Button
@@ -46,7 +53,6 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/IT_Solutions.webp
       altText: Fun feature preview
     colors: bg-neutral-fg-dark
     styles:
@@ -58,10 +64,13 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      text:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: ABOUT ARKYTECH
