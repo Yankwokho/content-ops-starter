@@ -30,7 +30,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: We Fix All IT Problems with Business-Oriented Solutions
+      text: ''
       color: text-dark
     subtitle: ''
     text: >
