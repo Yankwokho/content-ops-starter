@@ -33,21 +33,16 @@ sections:
       text: We Fix All IT Problems with Business-Oriented Solutions
       color: text-dark
     subtitle: ''
-    text: >+
-      <div style="text-align: center">We Fix All IT Problems with
-      Business-Oriented Solutions
+    text: >
+      <div style="text-align: center"> <h1>We Fix All IT Problems with
+      Business-Oriented Solutions</h1></div>
 
 
-      <p align="center">Not only we fix existing IT problems and develop new IT
-      solutions, we tailor-made them to fit with your unique business.</p>
-
-
+      <div align="center">Not only we fix existing IT problems and develop new
+      IT solutions, we tailor-made them to fit with your unique business
 
 
       </div>
-
-
-
     actions:
       - type: Button
         label: Get started
