@@ -23,6 +23,17 @@
             "elementId": "header-link"
         },
         {
+            "type": "Link",
+            "label": "PRICING",
+            "altText": "",
+            "url": "/pricing",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "\"Y\"OUR IT TEAM",
             "altText": "",
             "url": "/blog",
@@ -71,17 +82,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "type": "Link",
-            "label": "PRICING",
-            "altText": "",
-            "url": "/pricing",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
