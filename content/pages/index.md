@@ -64,10 +64,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
       text:
         textAlign: center
