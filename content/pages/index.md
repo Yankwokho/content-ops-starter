@@ -34,8 +34,9 @@ sections:
       color: text-dark
     subtitle: ''
     text: >+
-      Not only we fix existing IT problems and develop new IT solutions, we
-      tailor-made them to fit with your unique business.
+      <div style="text-align: center">Not only we fix existing IT problems and
+      develop new IT solutions, we tailor-made them to fit with your unique
+      business.</div>
 
     actions:
       - type: Button
