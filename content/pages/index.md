@@ -9,13 +9,6 @@ sections:
         altText: Rangle logo
         elementId: ''
         url: /images/frontpage.jpg
-      - type: ImageBlock
-        url: /images/frontpage.jpg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-dark-fg-light
