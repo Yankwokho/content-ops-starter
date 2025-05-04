@@ -12,9 +12,6 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
         altText: Rangle logo
         elementId: ''
         url: /images/IT_Solutions.webp
