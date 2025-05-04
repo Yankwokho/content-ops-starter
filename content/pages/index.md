@@ -62,6 +62,8 @@ sections:
           - pl-20
           - pb-20
           - pr-20
+      text:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: ABOUT ARKYTECH
