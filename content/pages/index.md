@@ -63,10 +63,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
       text:
         textAlign: center
   - type: FeaturedItemsSection
