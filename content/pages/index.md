@@ -10,7 +10,7 @@ sections:
         elementId: ''
         url: /images/frontpage.jpg
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/frontpage.jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
