@@ -6,9 +6,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
         altText: Rangle logo
         elementId: ''
         url: /images/IT_Solutions.webp
