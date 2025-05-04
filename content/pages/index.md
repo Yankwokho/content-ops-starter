@@ -2,6 +2,31 @@
 title: Home
 slug: /
 sections:
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        altText: Rangle logo
+        elementId: ''
+        url: /images/frontpage.jpg
+    elementId: ''
+    motion: static
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -39,13 +64,13 @@ sections:
           - pr-20
   - type: FeaturedItemsSection
     title:
-      text: Managed Services
+      text: ABOUT ARKYTECH
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Entrepreneur
@@ -146,7 +171,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
