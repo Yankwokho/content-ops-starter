@@ -24,7 +24,6 @@ sections:
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        url: /images/IT_Solutions.webp
         altText: Rangle logo
         elementId: ''
     elementId: ''
