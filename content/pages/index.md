@@ -6,9 +6,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
