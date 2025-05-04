@@ -8,7 +8,7 @@ sections:
       - type: ImageBlock
         altText: Rangle logo
         elementId: ''
-        url: /images/IT_Solutions.webp
+        url: /images/frontpage.jpg
     elementId: ''
     motion: static
     colors: bg-dark-fg-light
