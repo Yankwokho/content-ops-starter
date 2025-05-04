@@ -33,9 +33,9 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >
-      <div style="text-align: center"> <h1>We Fix All IT Problems with
-      Business-Oriented Solutions</h1></div>
+    text: >+
+      <div style="text-align: center"> <h2>We Fix All IT Problems with
+      Business-Oriented Solutions</h2></div>
 
 
       <div align="center">Not only we fix existing IT problems and develop new
@@ -43,6 +43,7 @@ sections:
 
 
       </div>
+
     actions:
       - type: Button
         label: Get started
