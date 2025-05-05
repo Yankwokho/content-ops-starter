@@ -462,14 +462,12 @@ sections:
 
       We love our customers, so feel free schedule a meeting with us
 
-      **ArkyTech**
-
-      Markham, ON, Canada
+      **ArkyTech MSP Inc.
+      **Markham, ON, Canada
 
       [**437-987-8120**](tel:4379878120)[\*\*
       paul@arkytech.ca\*\*](mailto:paul@arkytech.ca)
 
-      Hours
       Mon to Fri:  09:00 a.m. – 05:00 p.m.
       Sat and Sun: Closed
     media:
