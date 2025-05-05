@@ -456,7 +456,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: 'We love our customers, so feel free schedule a meeting with us'
+    subtitle: ''
     text: |
       ## **Better yet, see us in person!**
 
