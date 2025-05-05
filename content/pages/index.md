@@ -86,7 +86,8 @@ sections:
         subtitle: ''
         text: >+
           *   At ArkyTech, our mission is to provide tailor-made IT management
-          services to small businesses, according to their unique needs.
+          services to small businesses, according to their unique needs. We
+          strive to make technology work for our clients, not against them. 
 
         actions: []
         elementId: null
