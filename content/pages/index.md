@@ -82,7 +82,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Entrepreneur
+        title: Our Mission
         subtitle: 1-2 Employee(s)
         text: |+
           *   Initial Business Assessment and IT Solutions Proposal
