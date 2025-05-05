@@ -84,20 +84,9 @@ sections:
       - type: FeaturedItem
         title: Our Mission
         subtitle: ''
-        text: |+
-          *   Initial Business Assessment and IT Solutions Proposal
-
-          *   Domain Registration
-
-          *   Business Email Registration
-
-          *   Business Web site with a landing page
-
-
-
-
-
-
+        text: >+
+          *   At ArkyTech, our mission is to provide tailor-made IT management
+          services to small businesses, according to their unique needs.
 
         actions: []
         elementId: null
