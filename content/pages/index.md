@@ -457,11 +457,29 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      #### ArkyTech
+
+      Markham, ON, Canada
+
+      [437-987-8120](tel:4379878120)
+
+      <paul@arkytech.ca>
+
+      Hours
+      Mon: 09:00 a.m. – 05:00 p.m.
+
+      Tue: 09:00 a.m. – 05:00 p.m.
+
+      Wed: 09:00 a.m. – 05:00 p.m.
+
+      Thu: 09:00 a.m. – 05:00 p.m.
+
+      Fri: 09:00 a.m. – 05:00 p.m.
+
+      Sat: Closed
+
+      Sun: Closed
     media:
       fields:
         - name: name
