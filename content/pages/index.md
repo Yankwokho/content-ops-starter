@@ -113,10 +113,12 @@ sections:
               borderRadius: x-large
       - title: Our Expertise
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The ArkyTech team consists of experienced IT professionals who are
+          expertise in variety of areas, including Network Infrastructure and
+          Security, Software and Hardware management, Cloud and AI-driven
+          Services, Software/Web Development and Project Management. We covered
+          every area of IT services any small businesses need.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
