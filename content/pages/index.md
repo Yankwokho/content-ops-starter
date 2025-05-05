@@ -83,7 +83,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Our Mission
-        subtitle: 1-2 Employee(s)
+        subtitle: ''
         text: |+
           *   Initial Business Assessment and IT Solutions Proposal
 
