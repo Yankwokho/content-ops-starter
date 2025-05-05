@@ -4,8 +4,8 @@
     "neutral": "#8cff69",
     "neutralAlt": "#8cff69",
     "primary": "#2a2a2a",
-    "fontBody": "sans",
-    "fontHeadlines": "sans",
+    "fontBody": "",
+    "fontHeadlines": "",
     "h1": {
         "size": "6xl",
         "weight": "normal",
@@ -77,13 +77,13 @@
     "linkPrimary": {
         "weight": "normal",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wide",
         "type": "ThemeStyleLink"
     },
     "linkSecondary": {
         "weight": "normal",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wide",
         "type": "ThemeStyleLink"
     },
     "type": "ThemeStyle"

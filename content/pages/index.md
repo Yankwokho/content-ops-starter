@@ -82,22 +82,12 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Entrepreneur
-        subtitle: 1-2 Employee(s)
-        text: |+
-          *   Initial Business Assessment and IT Solutions Proposal
-
-          *   Domain Registration
-
-          *   Business Email Registration
-
-          *   Business Web site with a landing page
-
-
-
-
-
-
+        title: Our Mission
+        subtitle: ''
+        text: >+
+          *   At ArkyTech, our mission is to provide tailor-made IT management
+          services to small businesses, according to their unique needs. We
+          strive to make technology work for our clients, not against them. 
 
         actions: []
         elementId: null
@@ -121,12 +111,14 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Our Expertise
+        subtitle: ''
+        text: >
+          The ArkyTech team consists of experienced IT specialists who are
+          expertise in variety of areas, including Network Infrastructure and
+          Security, Software and Hardware management, Cloud and AI-driven
+          Services, Software/Web Development and Project Management. We covered
+          every area of IT services any small businesses may need.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -146,12 +138,13 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Our Approach
+        subtitle: ''
+        text: >
+
+          We act as an extension of our clients' teams, taking a personalized
+          approach to understand their unique challenges and deliver tailored IT
+          solutions — all at the cost of a part-time employee.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -210,98 +203,6 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
       text: Grow your business 10x faster
       color: text-dark
       styles:
@@ -341,7 +242,7 @@ sections:
         self:
           textAlign: center
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: col
@@ -552,15 +453,23 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: |
+      #### **Better yet, see us in person!**
+
+      We love our customers, so feel free schedule a meeting with us
+
+      \*\*ArkyTech MSP Inc.
+      \*\*Markham, ON, Canada
+
+      [**437-987-8120**](tel:4379878120)[
+      paul@arkytech.ca](mailto:paul@arkytech.ca)
+
+      Mon to Fri:  09:00 a.m. – 05:00 p.m.
+      Sat and Sun: Closed
     media:
       fields:
         - name: name
