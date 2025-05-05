@@ -140,10 +140,12 @@ sections:
         type: FeaturedItem
       - title: Our Approach
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We take a personalized approach to each client's needs, working
+          closely with them to understand their unique challenges and develop
+          customized solutions, as their client's own IT team, with an expense
+          of a part-time employee. 
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
