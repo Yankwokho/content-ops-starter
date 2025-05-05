@@ -457,29 +457,22 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'We love our customers, so feel free schedule a meeting with us'
-    text: |
-      #### ArkyTech
+    text: >
+      #### **ArkyTech**
+
 
       Markham, ON, Canada
 
-      [437-987-8120](tel:4379878120)
 
-      <paul@arkytech.ca>
+      [**437-987-8120 /**
+      ](tel:4379878120)[**paul@arkytech.ca**](mailto:paul@arkytech.ca)
+
 
       Hours
-      Mon: 09:00 a.m. – 05:00 p.m.
 
-      Tue: 09:00 a.m. – 05:00 p.m.
+      Mon to Fri:  09:00 a.m. – 05:00 p.m.
 
-      Wed: 09:00 a.m. – 05:00 p.m.
-
-      Thu: 09:00 a.m. – 05:00 p.m.
-
-      Fri: 09:00 a.m. – 05:00 p.m.
-
-      Sat: Closed
-
-      Sun: Closed
+      Sat and Sun: Closed
     media:
       fields:
         - name: name
