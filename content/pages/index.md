@@ -453,7 +453,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: ''
+      text: 'Better yet, see us in person!'
       color: text-dark
       type: TitleBlock
     subtitle: 'We love our customers, so feel free schedule a meeting with us'
