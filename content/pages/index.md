@@ -118,7 +118,7 @@ sections:
           expertise in variety of areas, including Network Infrastructure and
           Security, Software and Hardware management, Cloud and AI-driven
           Services, Software/Web Development and Project Management. We covered
-          every area of IT services any small businesses need.
+          every area of IT services any small businesses may need.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
