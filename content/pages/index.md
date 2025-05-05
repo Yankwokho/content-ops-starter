@@ -460,7 +460,7 @@ sections:
     text: |
       ## **Better yet, see us in person!**
 
-      ****
+      We love our customers, so feel free schedule a meeting with us
 
       **ArkyTech**
 
