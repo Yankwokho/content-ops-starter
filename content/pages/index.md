@@ -140,12 +140,11 @@ sections:
         type: FeaturedItem
       - title: Our Approach
         subtitle: ''
-        text: >+
-          We take a personalized approach to each client's needs, working
-          closely with them to understand their unique challenges and develop
-          customized solutions, as their client's own IT team, with an expense
-          of a part-time employee. 
+        text: >
 
+          We act as an extension of our clients' teams, taking a personalized
+          approach to understand their unique challenges and deliver tailored IT
+          solutions — all at the cost of a part-time employee.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
