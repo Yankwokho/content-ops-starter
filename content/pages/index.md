@@ -453,7 +453,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: >-
